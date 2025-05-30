@@ -4,5 +4,5 @@ function calcularPromedio(lista) {
 }
 
 // Ejemplo de uso
-const numeros = [10, 20, 30, 40];
+const numeros = [80, 20, 30, 40];
 console.log("Promedio:", calcularPromedio(numeros));
